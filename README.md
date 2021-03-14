@@ -1,7 +1,7 @@
 # WurmSatz - Koopeeratives Schreiben in GitHub
 
 ## Aufgabe:
-In dieser ReadMe.md-Datei soll ein kreativer, möglichst sinnvoller Satz entstehen. Dazu muss jede/r aus der Gruppe in **alphabetischer Reihenholge** (Nachname) ein Wort hinzufügen. Jeder ergänzt dazu in **einer neuen Zeile** Nummer, Nachnamen (alphabetisch sortiert), Doppelpunkt und das eigentliche Wort!
+In dieser ReadMe.md-Datei soll ein kreativer, möglichst sinnvoller Satz entstehen. Dazu muss jede/r aus der Gruppe in **alphabetischer Reihenholge** (nach Nachname) in **einer neuen Zeile** folgendes: Nummer, Nachname (alphabetisch sortiert), Doppelpunkt und das eigentliche Wort!
 Viel Spaß!
 
 **Bsp:**
